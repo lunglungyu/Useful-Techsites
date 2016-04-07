@@ -1,3 +1,5 @@
+[it-ebooks](https://it-ebooks.info/)
+
 [IT-ebooks](http://it-ebooks.club/)
 
 [eBooks-IT](https://ebooks-it.org/)
@@ -7,3 +9,5 @@
 [ebookee](http://ebookee.org/)
 
 [Wow!ebook](http://www.wowebook.pw/)
+
+[it-ebooks](http://www.it-ebooks.com/)
