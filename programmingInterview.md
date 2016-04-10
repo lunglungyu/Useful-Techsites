@@ -23,3 +23,8 @@
 [CodeJava](http://www.codejava.net/)
 
 [TutorialHorizon](http://www.tutorialhorizon.com/)
+
+[JavaWorld](http://www.javaworld.com/)
+
+[JavaPapers](http://javapapers.com/)
+
